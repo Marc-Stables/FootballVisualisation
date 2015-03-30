@@ -1,0 +1,209 @@
+<XMLSOCCER.COM>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Celtic</Team>
+        <Team_Id>54</Team_Id>
+        <Played>27</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>13</PlayedAway>
+        <Won>20</Won>
+        <Draw>3</Draw>
+        <Lost>4</Lost>
+        <NumberOfShots>638</NumberOfShots>
+        <YellowCards>29</YellowCards>
+        <RedCards>1</RedCards>
+        <Goals_For>56</Goals_For>
+        <Goals_Against>14</Goals_Against>
+        <Goal_Difference>42</Goal_Difference>
+        <Points>63</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Aberdeen</Team>
+        <Team_Id>45</Team_Id>
+        <Played>27</Played>
+        <PlayedAtHome>13</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>18</Won>
+        <Draw>3</Draw>
+        <Lost>6</Lost>
+        <NumberOfShots>489</NumberOfShots>
+        <YellowCards>29</YellowCards>
+        <RedCards>0</RedCards>
+        <Goals_For>47</Goals_For>
+        <Goals_Against>25</Goals_Against>
+        <Goal_Difference>22</Goal_Difference>
+        <Points>57</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Inverness C</Team>
+        <Team_Id>48</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>16</Won>
+        <Draw>5</Draw>
+        <Lost>7</Lost>
+        <NumberOfShots>492</NumberOfShots>
+        <YellowCards>43</YellowCards>
+        <RedCards>5</RedCards>
+        <Goals_For>42</Goals_For>
+        <Goals_Against>29</Goals_Against>
+        <Goal_Difference>13</Goal_Difference>
+        <Points>53</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Dundee United</Team>
+        <Team_Id>51</Team_Id>
+        <Played>27</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>13</PlayedAway>
+        <Won>14</Won>
+        <Draw>4</Draw>
+        <Lost>9</Lost>
+        <NumberOfShots>404</NumberOfShots>
+        <YellowCards>49</YellowCards>
+        <RedCards>2</RedCards>
+        <Goals_For>49</Goals_For>
+        <Goals_Against>38</Goals_Against>
+        <Goal_Difference>11</Goal_Difference>
+        <Points>46</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Hamilton</Team>
+        <Team_Id>228</Team_Id>
+        <Played>29</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>15</PlayedAway>
+        <Won>12</Won>
+        <Draw>5</Draw>
+        <Lost>12</Lost>
+        <NumberOfShots>426</NumberOfShots>
+        <YellowCards>60</YellowCards>
+        <RedCards>4</RedCards>
+        <Goals_For>39</Goals_For>
+        <Goals_Against>40</Goals_Against>
+        <Goal_Difference>-1</Goal_Difference>
+        <Points>41</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>St Johnstone</Team>
+        <Team_Id>46</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>12</Won>
+        <Draw>5</Draw>
+        <Lost>11</Lost>
+        <NumberOfShots>302</NumberOfShots>
+        <YellowCards>46</YellowCards>
+        <RedCards>2</RedCards>
+        <Goals_For>25</Goals_For>
+        <Goals_Against>27</Goals_Against>
+        <Goal_Difference>-2</Goal_Difference>
+        <Points>41</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Dundee FC</Team>
+        <Team_Id>522</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>10</Won>
+        <Draw>9</Draw>
+        <Lost>9</Lost>
+        <NumberOfShots>379</NumberOfShots>
+        <YellowCards>44</YellowCards>
+        <RedCards>3</RedCards>
+        <Goals_For>39</Goals_For>
+        <Goals_Against>39</Goals_Against>
+        <Goal_Difference>0</Goal_Difference>
+        <Points>39</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Kilmarnock</Team>
+        <Team_Id>52</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>13</PlayedAtHome>
+        <PlayedAway>15</PlayedAway>
+        <Won>9</Won>
+        <Draw>8</Draw>
+        <Lost>11</Lost>
+        <NumberOfShots>374</NumberOfShots>
+        <YellowCards>60</YellowCards>
+        <RedCards>3</RedCards>
+        <Goals_For>30</Goals_For>
+        <Goals_Against>36</Goals_Against>
+        <Goal_Difference>-6</Goal_Difference>
+        <Points>35</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Partick</Team>
+        <Team_Id>561</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>7</Won>
+        <Draw>7</Draw>
+        <Lost>14</Lost>
+        <NumberOfShots>372</NumberOfShots>
+        <YellowCards>58</YellowCards>
+        <RedCards>3</RedCards>
+        <Goals_For>35</Goals_For>
+        <Goals_Against>36</Goals_Against>
+        <Goal_Difference>-1</Goal_Difference>
+        <Points>28</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Ross County</Team>
+        <Team_Id>360</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>6</Won>
+        <Draw>6</Draw>
+        <Lost>16</Lost>
+        <NumberOfShots>389</NumberOfShots>
+        <YellowCards>57</YellowCards>
+        <RedCards>3</RedCards>
+        <Goals_For>29</Goals_For>
+        <Goals_Against>52</Goals_Against>
+        <Goal_Difference>-23</Goal_Difference>
+        <Points>24</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>Motherwell</Team>
+        <Team_Id>47</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>14</PlayedAtHome>
+        <PlayedAway>14</PlayedAway>
+        <Won>6</Won>
+        <Draw>4</Draw>
+        <Lost>18</Lost>
+        <NumberOfShots>265</NumberOfShots>
+        <YellowCards>40</YellowCards>
+        <RedCards>6</RedCards>
+        <Goals_For>21</Goals_For>
+        <Goals_Against>52</Goals_Against>
+        <Goal_Difference>-31</Goal_Difference>
+        <Points>22</Points>
+    </TeamLeagueStanding>
+    <TeamLeagueStanding xmlns="http://xmlsoccer.com/LeagueStanding">
+        <Team>St Mirren</Team>
+        <Team_Id>56</Team_Id>
+        <Played>28</Played>
+        <PlayedAtHome>15</PlayedAtHome>
+        <PlayedAway>13</PlayedAway>
+        <Won>6</Won>
+        <Draw>3</Draw>
+        <Lost>19</Lost>
+        <NumberOfShots>394</NumberOfShots>
+        <YellowCards>46</YellowCards>
+        <RedCards>5</RedCards>
+        <Goals_For>22</Goals_For>
+        <Goals_Against>46</Goals_Against>
+        <Goal_Difference>-24</Goal_Difference>
+        <Points>21</Points>
+    </TeamLeagueStanding>
+    <AccountInformation>
+        Data requested at 3/13/2015 12:18:21 AM from 86.178.182.233, Username: ms1991. You are correctly logged into the Demo-service, and only records from the Scottish Premier League can be extracted here. If no data is shown, no matches were found using the specified parameters. If you are using the livescore-method and no matches are returned, it is because no matches is currently being played in the Scottish Premier League.
+    </AccountInformation>
+</XMLSOCCER.COM>

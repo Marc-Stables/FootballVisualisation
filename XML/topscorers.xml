@@ -1,0 +1,555 @@
+<XMLSOCCER.COM>
+    <Topscorer>
+        <Rank>1</Rank>
+        <Name>Adam Rooney</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>13</Goals>
+        <FirstScorer>7</FirstScorer>
+        <Penalties>3</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>2</Rank>
+        <Name>Charles Mulgrew</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>1</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>2</Rank>
+        <Name>Anthony Andreu</Name>
+        <TeamName>Hamilton</TeamName>
+        <Team_Id>228</Team_Id>
+        <Nationality>France</Nationality>
+        <Goals>12</Goals>
+        <FirstScorer>6</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>2</Rank>
+        <Name>Greg Stewart</Name>
+        <TeamName>Dundee FC</TeamName>
+        <Team_Id>522</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>12</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>4</Rank>
+        <Name>Billy McKay</Name>
+        <TeamName>Inverness C</TeamName>
+        <Team_Id>48</Team_Id>
+        <Nationality>N__Ireland</Nationality>
+        <Goals>10</Goals>
+        <FirstScorer>4</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>4</Rank>
+        <Name>Nadir Ciftci</Name>
+        <TeamName>Dundee United</TeamName>
+        <Team_Id>51</Team_Id>
+        <Nationality>Netherlands</Nationality>
+        <Goals>10</Goals>
+        <FirstScorer>7</FirstScorer>
+        <Penalties>2</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>6</Rank>
+        <Name>Michael O'Halloran</Name>
+        <TeamName>St Johnstone</TeamName>
+        <Team_Id>46</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>9</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>7</Rank>
+        <Name>Mickael Antione-Curier</Name>
+        <TeamName>Hamilton</TeamName>
+        <Team_Id>228</Team_Id>
+        <Nationality>France</Nationality>
+        <Goals>8</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>3</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>7</Rank>
+        <Name>Alistair Crawford</Name>
+        <TeamName>Hamilton</TeamName>
+        <Team_Id>228</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>8</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>John Sutton</Name>
+        <TeamName>Motherwell</TeamName>
+        <Team_Id>47</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>David Clarkson</Name>
+        <TeamName>Dundee FC</TeamName>
+        <Team_Id>522</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>Anthony Stokes</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Ireland</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>John Guidetti</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Sweden</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>4</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>Marley Watkins</Name>
+        <TeamName>Inverness C</TeamName>
+        <Team_Id>48</Team_Id>
+        <Nationality>Wales</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>Kris Doolan</Name>
+        <TeamName>Partick</TeamName>
+        <Team_Id>561</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>Kenny McLean</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>3</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>9</Rank>
+        <Name>Stuart Armstrong</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>7</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>17</Rank>
+        <Name>Kris Commons</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>6</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>17</Rank>
+        <Name>David Goodwillie</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>6</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>17</Rank>
+        <Name>Peter Pawlett</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>6</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>17</Rank>
+        <Name>Temitope Ayoluwa Obadeyi</Name>
+        <TeamName>Kilmarnock</TeamName>
+        <Team_Id>52</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>6</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>17</Rank>
+        <Name>Gary Mackay-Steven</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>6</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>22</Rank>
+        <Name>Stefan Johansen</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Norway</Nationality>
+        <Goals>5</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>22</Rank>
+        <Name>Brian Graham</Name>
+        <TeamName>St Johnstone</TeamName>
+        <Team_Id>46</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>5</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>3</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>22</Rank>
+        <Name>Aaron Doran</Name>
+        <TeamName>Inverness C</TeamName>
+        <Team_Id>48</Team_Id>
+        <Nationality>Ireland</Nationality>
+        <Goals>5</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>22</Rank>
+        <Name>Chris Erskine</Name>
+        <TeamName>Dundee United</TeamName>
+        <Team_Id>51</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>5</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>22</Rank>
+        <Name>Josh Magennis</Name>
+        <TeamName>Kilmarnock</TeamName>
+        <Team_Id>52</Team_Id>
+        <Nationality>N__Ireland</Nationality>
+        <Goals>5</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Jaroslaw Fojut</Name>
+        <TeamName>Dundee United</TeamName>
+        <Team_Id>51</Team_Id>
+        <Nationality>Poland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Ryan Stevenson</Name>
+        <TeamName>Partick</TeamName>
+        <Team_Id>561</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Gary Harkins</Name>
+        <TeamName>Dundee FC</TeamName>
+        <Team_Id>522</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Alexei Jr Eremenko</Name>
+        <TeamName>Kilmarnock</TeamName>
+        <Team_Id>52</Team_Id>
+        <Nationality>Finland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>2</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Leigh Griffiths</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Gary Irvine</Name>
+        <TeamName>Dundee FC</TeamName>
+        <Team_Id>522</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Niall McGinn</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>N__Ireland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Ryan Christie</Name>
+        <TeamName>Inverness C</TeamName>
+        <Team_Id>48</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>27</Rank>
+        <Name>Charles Telfer</Name>
+        <TeamName>Dundee United</TeamName>
+        <Team_Id>51</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>4</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Martin Canning</Name>
+        <TeamName>Hamilton</TeamName>
+        <Team_Id>228</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Jonathan Hayes</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>Ireland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Paul Quinn</Name>
+        <TeamName>Ross County</TeamName>
+        <Team_Id>360</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Gary Fraser</Name>
+        <TeamName>Partick</TeamName>
+        <Team_Id>561</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Greg Tansey</Name>
+        <TeamName>Inverness C</TeamName>
+        <Team_Id>48</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>3</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Shaleum Logan</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Manuel Pascali</Name>
+        <TeamName>Kilmarnock</TeamName>
+        <Team_Id>52</Team_Id>
+        <Nationality>Italy</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Ryan Jack</Name>
+        <TeamName>Aberdeen</TeamName>
+        <Team_Id>45</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Jake Jervis</Name>
+        <TeamName>Ross County</TeamName>
+        <Team_Id>360</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Virgil van Dijk</Name>
+        <TeamName>Celtic</TeamName>
+        <Team_Id>54</Team_Id>
+        <Nationality>Netherlands</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>2</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Liam Boyce</Name>
+        <TeamName>Ross County</TeamName>
+        <Team_Id>360</Team_Id>
+        <Nationality>N__Ireland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Henrik Ojamaa</Name>
+        <TeamName>Motherwell</TeamName>
+        <Team_Id>47</Team_Id>
+        <Nationality>Estonia</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>James Craigen</Name>
+        <TeamName>Partick</TeamName>
+        <Team_Id>561</Team_Id>
+        <Nationality>England</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>1</FirstScorer>
+        <Penalties>0</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <Topscorer>
+        <Rank>36</Rank>
+        <Name>Craig Slater</Name>
+        <TeamName>Kilmarnock</TeamName>
+        <Team_Id>52</Team_Id>
+        <Nationality>Scotland</Nationality>
+        <Goals>3</Goals>
+        <FirstScorer>0</FirstScorer>
+        <Penalties>1</Penalties>
+        <MissedPenalties>0</MissedPenalties>
+    </Topscorer>
+    <AccountInformation>
+        Data requested at 2/24/2015 12:51:52 PM from 86.178.179.86, Username: ms1991. You are correctly logged into the Demo-service, and only records from the Scottish Premier League can be extracted here. If no data is shown, no matches were found using the specified parameters. If you are using the livescore-method and no matches are returned, it is because no matches is currently being played in the Scottish Premier League.
+    </AccountInformation>
+</XMLSOCCER.COM>

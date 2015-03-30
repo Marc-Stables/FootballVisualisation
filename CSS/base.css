@@ -1,0 +1,105 @@
+/*body {
+    font-family: sans-serif;
+    width: 800px;
+    margin: 1em auto;
+}
+
+body, a, a:focus, a:active {
+    color: #333;
+}
+
+.nav {
+    text-align: center;
+    margin-bottom: 2em;
+}
+.nav h1 {
+    margin-bottom: .5em;
+}
+
+.nav a {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 2px solid #555;
+}
+
+.nav a:hover {
+    background-color: #bbb;
+}
+.nav a.active {
+    background-color: #555;
+}
+
+text {
+    fill: black !important;
+}*/
+.teamIMG{
+    height:30px;
+    width:30px;
+}
+.chart{
+    float:left;
+    width:1400px;
+}
+.jumbotron{
+    height:200px;
+}
+.col-md-2{
+    width:250px;
+}
+.positionrows{
+    float:left;
+    width:60px;
+    height:500px;
+}
+/*.blah{
+    margin-left: 100px;
+}*/
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto
+}
+
+#tablecontainer {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.tab-content{
+    height:60px;
+}
+
+#teams{
+    height:1000px;
+    width:200px;
+}
+
+.team{
+    height:35px;
+}
+
+
+
+.list-group-item{
+    height:50px;
+    width:200px;
+}
+.list-group{
+    width:200px;
+}
+.nav-tabs{
+    width:200px;
+}
+.tab-content{
+    width:200px;
+}
+
+.row{
+    /*width:2200px;*/
+}
+
+.teamRect{
+    stroke-width: 2px;
+}
